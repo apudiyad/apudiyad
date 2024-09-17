@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Art Gallery** and **Component Based Development**
+- 🔭 I’m currently working on **My Personal Portfolio** using **Three.js**
 
 - 🌱 I’m currently learning **React, Spring and spring Boot, Angular, Docker, Jenkins, ArgoCD and DevOPS tools**
 
